@@ -1,0 +1,377 @@
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-13T23:31:14.897Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-13T23:35:26.056Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-13T23:45:08.118Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-13T23:52:05.445Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-13T23:55:26.487Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-14T00:01:08.534Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-14T00:53:31.478Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-14T03:05:10.893Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-14T03:05:32.563Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-15T05:53:31.267Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-15T06:04:07.675Z"}
+{"type":"agent_update","agent_id":"hypeforge","status":"working","task":"Mission Control heartbeat test","description":null,"timestamp":"2026-03-15T14:16:28.625Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"active","task":"websocket test","description":null,"timestamp":"2026-03-15T14:44:06.251Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"active","task":"websocket test","description":null,"timestamp":"2026-03-15T14:44:21.287Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-15T14:47:24.971Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-15T14:56:14.928Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-15T15:01:58.326Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-15T15:04:00.441Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-15T15:08:33.748Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-15T15:12:25.383Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-15T15:22:53.600Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-15T15:25:54.549Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-15T15:29:04.802Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-15T16:04:48.193Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-15T16:05:15.789Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-15T20:51:45.041Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"WORKING","task":"Telemetry validation","description":null,"timestamp":"2026-03-15T21:56:32.638Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"PROGRESS","task":"Telemetry validation","description":null,"timestamp":"2026-03-15T21:56:41.532Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"COMPLETE","task":"Telemetry validation","description":null,"timestamp":"2026-03-15T21:56:56.157Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-15T22:16:56.720Z"}
+{"type":"task_assigned","agent_id":"Deckwright","status":null,"task":"Realtime telemetry verification","description":"Realtime telemetry verification","timestamp":"2026-03-15T22:17:10.490Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"WORKING","task":"Realtime telemetry verification","description":null,"timestamp":"2026-03-15T22:19:32.093Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"PROGRESS","task":"Realtime telemetry verification","description":null,"timestamp":"2026-03-15T22:19:39.101Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"COMPLETE","task":"Realtime telemetry verification","description":null,"timestamp":"2026-03-15T22:19:52.050Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-15T22:35:27.490Z"}
+{"type":"task_assigned","agent_id":"ceo_treasurer","status":null,"task":"Mid-cycle memory checkpoint directive","description":"Mid-cycle memory checkpoint directive","timestamp":"2026-03-15T22:35:34.056Z"}
+{"type":"task_assigned","agent_id":"deckwright","status":null,"task":"Mid-cycle memory checkpoint directive","description":"Mid-cycle memory checkpoint directive","timestamp":"2026-03-15T22:35:48.673Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"TESTING_CONNECTION","task":"Realtime link test","description":null,"timestamp":"2026-03-16T00:53:28.926Z"}
+{"type":"task_assigned","agent_id":"deckwright","status":null,"task":"Realtime telemetry instrumentation","description":"Realtime telemetry instrumentation","timestamp":"2026-03-16T00:55:54.634Z"}
+{"type":"task_assigned","agent_id":"marketpulse","status":null,"task":"Packet economy modeling prep","description":"Packet economy modeling prep","timestamp":"2026-03-16T00:56:17.391Z"}
+{"type":"task_assigned","agent_id":"gameplaysystems","status":null,"task":"Mission Control WebSocket + dashboard upgrades","description":"Mission Control WebSocket + dashboard upgrades","timestamp":"2026-03-16T00:56:27.767Z"}
+{"type":"task_assigned","agent_id":"shoploop","status":null,"task":"Mission Control task board integration","description":"Mission Control task board integration","timestamp":"2026-03-16T00:56:39.828Z"}
+{"type":"task_assigned","agent_id":"hypeforge","status":null,"task":"BeastGaming logo concept sheet","description":"BeastGaming logo concept sheet","timestamp":"2026-03-16T00:57:00.029Z"}
+{"type":"task_assigned","agent_id":"moneymachine","status":null,"task":"Creator Video System page + Cloudflare tunnel","description":"Creator Video System page + Cloudflare tunnel","timestamp":"2026-03-16T00:57:13.473Z"}
+{"type":"task_assigned","agent_id":"ceo_treasurer","status":null,"task":"Mission Control stability & reporting","description":"Mission Control stability & reporting","timestamp":"2026-03-16T00:57:24.346Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"WORKING","task":"Mission Control stability & reporting","description":null,"timestamp":"2026-03-16T00:57:40.341Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"WORKING","task":"Realtime telemetry instrumentation","description":null,"timestamp":"2026-03-16T00:57:57.020Z"}
+{"type":"task_assigned","agent_id":"ceo_treasurer","status":null,"task":"Mission Control stability & reporting","description":"Mission Control stability & reporting","timestamp":"2026-03-16T01:04:57.462Z"}
+{"type":"task_assigned","agent_id":"deckwright","status":null,"task":"Realtime telemetry instrumentation","description":"Realtime telemetry instrumentation","timestamp":"2026-03-16T01:05:16.289Z"}
+{"type":"task_assigned","agent_id":"marketpulse","status":null,"task":"Packet economy modeling prep","description":"Packet economy modeling prep","timestamp":"2026-03-16T01:05:38.360Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-16T01:42:46.723Z"}
+{"type":"agent_update","agent_id":"cryptosentinel","status":"working","task":"INITIAL_CRYPTO_LANDSCAPE_ANALYSIS","description":null,"timestamp":"2026-03-16T01:46:13.985Z"}
+{"type":"task_assigned","agent_id":"cryptosentinel","status":null,"task":"INITIAL_CRYPTO_LANDSCAPE_ANALYSIS","description":"INITIAL_CRYPTO_LANDSCAPE_ANALYSIS","timestamp":"2026-03-16T01:46:13.985Z"}
+{"type":"agent_update","agent_id":"cryptosentinel","status":"WORKING","task":"INITIAL_CRYPTO_LANDSCAPE_ANALYSIS","description":null,"timestamp":"2026-03-16T01:46:25.952Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"WORKING","task":"Mission Control stability & reporting","description":null,"timestamp":"2026-03-16T01:51:40.600Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"WORKING","task":"Realtime telemetry instrumentation","description":null,"timestamp":"2026-03-16T01:51:50.536Z"}
+{"type":"agent_update","agent_id":"marketpulse","status":"WORKING","task":"Packet economy modeling prep","description":null,"timestamp":"2026-03-16T01:52:02.870Z"}
+{"type":"agent_update","agent_id":"gameplaysystems","status":"WORKING","task":"Mission Control WebSocket + dashboard upgrades","description":null,"timestamp":"2026-03-16T01:52:11.938Z"}
+{"type":"agent_update","agent_id":"shoploop","status":"WORKING","task":"Mission Control task board integration","description":null,"timestamp":"2026-03-16T01:52:30.819Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-16T02:01:08.631Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-16T02:18:41.697Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-16T02:24:25.519Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"working","task":"Mission Control telemetry instrumentation","description":null,"timestamp":"2026-03-16T02:24:45.491Z"}
+{"type":"task_assigned","agent_id":"deckwright","status":null,"task":"Mission Control telemetry instrumentation","description":"Mission Control telemetry instrumentation","timestamp":"2026-03-16T02:24:45.492Z"}
+{"type":"agent_update","agent_id":"marketpulse","status":"working","task":"Packet economy modeling prep","description":null,"timestamp":"2026-03-16T02:25:11.074Z"}
+{"type":"task_assigned","agent_id":"marketpulse","status":null,"task":"Packet economy modeling prep","description":"Packet economy modeling prep","timestamp":"2026-03-16T02:25:11.074Z"}
+{"type":"agent_update","agent_id":"marketpulse","status":"working","task":"Economy modeling readiness","description":null,"timestamp":"2026-03-16T02:32:15.055Z"}
+{"type":"task_assigned","agent_id":"marketpulse","status":null,"task":"Economy modeling readiness","description":"Economy modeling readiness","timestamp":"2026-03-16T02:32:15.055Z"}
+{"type":"agent_update","agent_id":"gameplaysystems","status":"working","task":"Mission Control websocket polish","description":null,"timestamp":"2026-03-16T02:32:28.707Z"}
+{"type":"task_assigned","agent_id":"gameplaysystems","status":null,"task":"Mission Control websocket polish","description":"Mission Control websocket polish","timestamp":"2026-03-16T02:32:28.707Z"}
+{"type":"agent_update","agent_id":"shoploop","status":"working","task":"Mission Control task board automation","description":null,"timestamp":"2026-03-16T02:32:41.368Z"}
+{"type":"task_assigned","agent_id":"shoploop","status":null,"task":"Mission Control task board automation","description":"Mission Control task board automation","timestamp":"2026-03-16T02:32:41.368Z"}
+{"type":"agent_update","agent_id":"hypeforge","status":"working","task":"BeastGaming logo concept sheet","description":null,"timestamp":"2026-03-16T02:32:59.726Z"}
+{"type":"task_assigned","agent_id":"hypeforge","status":null,"task":"BeastGaming logo concept sheet","description":"BeastGaming logo concept sheet","timestamp":"2026-03-16T02:32:59.726Z"}
+{"type":"agent_update","agent_id":"cryptosentinel","status":"working","task":"CRYPTO_REVENUE_OPPORTUNITIES","description":null,"timestamp":"2026-03-16T02:40:01.011Z"}
+{"type":"task_assigned","agent_id":"cryptosentinel","status":null,"task":"CRYPTO_REVENUE_OPPORTUNITIES","description":"CRYPTO_REVENUE_OPPORTUNITIES","timestamp":"2026-03-16T02:40:01.012Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"WORKING","task":"Mission Control telemetry instrumentation","description":null,"timestamp":"2026-03-16T02:40:12.419Z"}
+{"type":"agent_update","agent_id":"marketpulse","status":"WORKING","task":"Economy modeling readiness","description":null,"timestamp":"2026-03-16T02:40:24.339Z"}
+{"type":"agent_update","agent_id":"gameplaysystems","status":"WORKING","task":"Mission Control websocket polish","description":null,"timestamp":"2026-03-16T02:40:46.174Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-16T02:42:12.951Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"working","task":"Mission Control telemetry instrumentation","description":null,"timestamp":"2026-03-16T02:53:50.693Z"}
+{"type":"task_assigned","agent_id":"deckwright","status":null,"task":"Mission Control telemetry instrumentation","description":"Mission Control telemetry instrumentation","timestamp":"2026-03-16T02:53:50.697Z"}
+{"type":"agent_update","agent_id":"marketpulse","status":"working","task":"Economy modeling readiness","description":null,"timestamp":"2026-03-16T02:54:08.351Z"}
+{"type":"task_assigned","agent_id":"marketpulse","status":null,"task":"Economy modeling readiness","description":"Economy modeling readiness","timestamp":"2026-03-16T02:54:08.352Z"}
+{"type":"agent_update","agent_id":"gameplaysystems","status":"working","task":"Mission Control websocket polish","description":null,"timestamp":"2026-03-16T02:54:23.437Z"}
+{"type":"task_assigned","agent_id":"gameplaysystems","status":null,"task":"Mission Control websocket polish","description":"Mission Control websocket polish","timestamp":"2026-03-16T02:54:23.438Z"}
+{"type":"agent_update","agent_id":"shoploop","status":"working","task":"Mission Control task board automation","description":null,"timestamp":"2026-03-16T02:54:42.864Z"}
+{"type":"task_assigned","agent_id":"shoploop","status":null,"task":"Mission Control task board automation","description":"Mission Control task board automation","timestamp":"2026-03-16T02:54:42.875Z"}
+{"type":"agent_update","agent_id":"cryptosentinel","status":"WORKING","task":"CRYPTO_REVENUE_OPPORTUNITIES","description":null,"timestamp":"2026-03-16T03:17:09.213Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-16T03:24:28.468Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-16T03:29:30.761Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"working","task":"Mission Control telemetry instrumentation","description":null,"timestamp":"2026-03-16T03:29:56.409Z"}
+{"type":"task_assigned","agent_id":"deckwright","status":null,"task":"Mission Control telemetry instrumentation","description":"Mission Control telemetry instrumentation","timestamp":"2026-03-16T03:29:56.412Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-16T03:31:58.576Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"working","task":"Mission Control telemetry instrumentation","description":null,"timestamp":"2026-03-16T03:32:29.985Z"}
+{"type":"task_assigned","agent_id":"deckwright","status":null,"task":"Mission Control telemetry instrumentation","description":"Mission Control telemetry instrumentation","timestamp":"2026-03-16T03:32:29.987Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-16T03:35:12.148Z"}
+{"type":"agent_update","agent_id":"hypeforge","status":"working","task":"Agent profile portrait set","description":null,"timestamp":"2026-03-16T03:37:51.210Z"}
+{"type":"task_assigned","agent_id":"hypeforge","status":null,"task":"Agent profile portrait set","description":"Agent profile portrait set","timestamp":"2026-03-16T03:37:51.211Z"}
+{"type":"agent_update","agent_id":"hypeforge","status":"WORKING","task":"Agent profile portrait set","description":null,"timestamp":"2026-03-16T03:38:04.062Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"working","task":"Secure Cloudflare Mission Control access","description":null,"timestamp":"2026-03-16T03:42:32.650Z"}
+{"type":"task_assigned","agent_id":"moneymachine","status":null,"task":"Secure Cloudflare Mission Control access","description":"Secure Cloudflare Mission Control access","timestamp":"2026-03-16T03:42:32.651Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"WORKING","task":"Secure Cloudflare Mission Control access","description":null,"timestamp":"2026-03-16T03:42:48.365Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"WORKING","task":"Mission Control telemetry instrumentation","description":null,"timestamp":"2026-03-16T03:43:02.181Z"}
+{"type":"agent_update","agent_id":"marketpulse","status":"WORKING","task":"Economy modeling readiness","description":null,"timestamp":"2026-03-16T03:43:23.513Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-16T03:56:29.811Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"working","task":"Mission Control interactive floor","description":null,"timestamp":"2026-03-16T03:57:37.233Z"}
+{"type":"task_assigned","agent_id":"ceo_treasurer","status":null,"task":"Mission Control interactive floor","description":"Mission Control interactive floor","timestamp":"2026-03-16T03:57:37.234Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"WORKING","task":"Mission Control interactive floor","description":null,"timestamp":"2026-03-16T03:57:53.743Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-16T04:17:44.906Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-16T04:36:26.053Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"COMPLETE","task":"Portrait generated","description":null,"timestamp":"2026-03-16T05:25:50.072Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"COMPLETE","task":"Portrait generated","description":null,"timestamp":"2026-03-16T05:26:30.830Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"COMPLETE","task":"Portrait generated","description":null,"timestamp":"2026-03-16T05:30:54.333Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"COMPLETE","task":"Portrait generated","description":null,"timestamp":"2026-03-16T05:31:12.488Z"}
+{"type":"agent_update","agent_id":"marketpulse","status":"COMPLETE","task":"Portrait generated","description":null,"timestamp":"2026-03-16T05:31:48.764Z"}
+{"type":"agent_update","agent_id":"gameplaysystems","status":"COMPLETE","task":"Portrait generated","description":null,"timestamp":"2026-03-16T05:32:44.242Z"}
+{"type":"agent_update","agent_id":"shoploop","status":"COMPLETE","task":"Portrait generated","description":null,"timestamp":"2026-03-16T05:33:06.669Z"}
+{"type":"agent_update","agent_id":"hypeforge","status":"COMPLETE","task":"Portrait generated","description":null,"timestamp":"2026-03-16T05:33:23.894Z"}
+{"type":"agent_update","agent_id":"cryptosentinel","status":"COMPLETE","task":"Portrait generated","description":null,"timestamp":"2026-03-16T05:33:50.218Z"}
+{"type":"agent_update","agent_id":"gameplaysystems","status":"COMPLETE","task":"Status circle UI fix","description":null,"timestamp":"2026-03-16T05:41:42.799Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-16T07:24:38.242Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-16T07:29:56.992Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-16T07:53:23.488Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"WORKING","task":"Interactive floor build","description":"Assigned","timestamp":"2026-03-16T07:55:33.169Z"}
+{"type":"task_assigned","agent_id":"ceo_treasurer","status":"CEO_Treasurer","task":"Interactive floor build","description":"Assigned to ceo_treasurer","timestamp":"2026-03-16T07:55:33.171Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"WORKING","task":"Card telemetry pass","description":"Assigned","timestamp":"2026-03-16T07:55:33.194Z"}
+{"type":"task_assigned","agent_id":"deckwright","status":"CEO_Treasurer","task":"Card telemetry pass","description":"Assigned to deckwright","timestamp":"2026-03-16T07:55:33.201Z"}
+{"type":"agent_update","agent_id":"marketpulse","status":"WORKING","task":"Economy sanity check","description":"Assigned","timestamp":"2026-03-16T07:55:33.223Z"}
+{"type":"task_assigned","agent_id":"marketpulse","status":"CEO_Treasurer","task":"Economy sanity check","description":"Assigned to marketpulse","timestamp":"2026-03-16T07:55:33.229Z"}
+{"type":"agent_update","agent_id":"gameplaysystems","status":"WORKING","task":"Status indicator verification","description":"Assigned","timestamp":"2026-03-16T07:55:33.242Z"}
+{"type":"task_assigned","agent_id":"gameplaysystems","status":"CEO_Treasurer","task":"Status indicator verification","description":"Assigned to gameplaysystems","timestamp":"2026-03-16T07:55:33.244Z"}
+{"type":"agent_update","agent_id":"shoploop","status":"WORKING","task":"Mission board sync","description":"Assigned","timestamp":"2026-03-16T07:55:33.260Z"}
+{"type":"task_assigned","agent_id":"shoploop","status":"CEO_Treasurer","task":"Mission board sync","description":"Assigned to shoploop","timestamp":"2026-03-16T07:55:33.261Z"}
+{"type":"agent_update","agent_id":"hypeforge","status":"WORKING","task":"Portrait detailing","description":"Assigned","timestamp":"2026-03-16T07:55:33.276Z"}
+{"type":"task_assigned","agent_id":"hypeforge","status":"CEO_Treasurer","task":"Portrait detailing","description":"Assigned to hypeforge","timestamp":"2026-03-16T07:55:33.278Z"}
+{"type":"agent_update","agent_id":"cryptosentinel","status":"WORKING","task":"Crypto revenue scan","description":"Assigned","timestamp":"2026-03-16T07:55:33.292Z"}
+{"type":"task_assigned","agent_id":"cryptosentinel","status":"CEO_Treasurer","task":"Crypto revenue scan","description":"Assigned to cryptosentinel","timestamp":"2026-03-16T07:55:33.293Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"WORKING","task":"Cloudflare deployment","description":"Assigned","timestamp":"2026-03-16T07:55:33.311Z"}
+{"type":"task_assigned","agent_id":"moneymachine","status":"CEO_Treasurer","task":"Cloudflare deployment","description":"Assigned to moneymachine","timestamp":"2026-03-16T07:55:33.312Z"}
+{"type":"agent_update","agent_id":"hypeforge","status":"IDLE","task":"Portrait detailing","description":"Completed","timestamp":"2026-03-16T14:47:49.827Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"IDLE","task":"Portrait pipeline","description":"Completed","timestamp":"2026-03-16T14:48:30.984Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"WORKING","task":"Interactive floor build","description":"Assigned","timestamp":"2026-03-16T14:54:20.038Z"}
+{"type":"task_assigned","agent_id":"ceo_treasurer","status":"CEO_Treasurer","task":"Interactive floor build","description":"Assigned to ceo_treasurer","timestamp":"2026-03-16T14:54:20.039Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"WORKING","task":"Card telemetry pass","description":"Assigned","timestamp":"2026-03-16T14:54:20.055Z"}
+{"type":"task_assigned","agent_id":"deckwright","status":"CEO_Treasurer","task":"Card telemetry pass","description":"Assigned to deckwright","timestamp":"2026-03-16T14:54:20.056Z"}
+{"type":"agent_update","agent_id":"marketpulse","status":"WORKING","task":"Economy sanity check","description":"Assigned","timestamp":"2026-03-16T14:54:20.074Z"}
+{"type":"task_assigned","agent_id":"marketpulse","status":"CEO_Treasurer","task":"Economy sanity check","description":"Assigned to marketpulse","timestamp":"2026-03-16T14:54:20.076Z"}
+{"type":"agent_update","agent_id":"gameplaysystems","status":"WORKING","task":"Status indicator verification","description":"Assigned","timestamp":"2026-03-16T14:54:20.090Z"}
+{"type":"task_assigned","agent_id":"gameplaysystems","status":"CEO_Treasurer","task":"Status indicator verification","description":"Assigned to gameplaysystems","timestamp":"2026-03-16T14:54:20.091Z"}
+{"type":"agent_update","agent_id":"shoploop","status":"WORKING","task":"Mission board sync","description":"Assigned","timestamp":"2026-03-16T14:54:20.109Z"}
+{"type":"task_assigned","agent_id":"shoploop","status":"CEO_Treasurer","task":"Mission board sync","description":"Assigned to shoploop","timestamp":"2026-03-16T14:54:20.111Z"}
+{"type":"agent_update","agent_id":"hypeforge","status":"WORKING","task":"Portrait detailing","description":"Assigned","timestamp":"2026-03-16T14:54:20.139Z"}
+{"type":"task_assigned","agent_id":"hypeforge","status":"CEO_Treasurer","task":"Portrait detailing","description":"Assigned to hypeforge","timestamp":"2026-03-16T14:54:20.141Z"}
+{"type":"agent_update","agent_id":"cryptosentinel","status":"WORKING","task":"Crypto revenue scan","description":"Assigned","timestamp":"2026-03-16T14:54:20.169Z"}
+{"type":"task_assigned","agent_id":"cryptosentinel","status":"CEO_Treasurer","task":"Crypto revenue scan","description":"Assigned to cryptosentinel","timestamp":"2026-03-16T14:54:20.171Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"WORKING","task":"Cloudflare deployment","description":"Assigned","timestamp":"2026-03-16T14:54:20.188Z"}
+{"type":"task_assigned","agent_id":"moneymachine","status":"CEO_Treasurer","task":"Cloudflare deployment","description":"Assigned to moneymachine","timestamp":"2026-03-16T14:54:20.189Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-16T15:15:05.793Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-16T15:33:24.429Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"WORKING","task":"Inspection panel wiring","description":"In progress","timestamp":"2026-03-16T15:49:18.657Z"}
+{"type":"task_started","agent_id":"ceo_treasurer","status":"task_1773676166545","task":"Inspection panel wiring","description":"Task IN_PROGRESS","timestamp":"2026-03-16T15:49:26.555Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"WORKING","task":"Inspection panel wiring","description":"Assigned","timestamp":"2026-03-16T15:49:26.557Z"}
+{"type":"task_assigned","agent_id":"ceo_treasurer","status":"CEO_Treasurer","task":"Inspection panel wiring","description":"Assigned to CEO_Treasurer","timestamp":"2026-03-16T15:49:26.558Z"}
+{"type":"task_started","agent_id":"moneymachine","status":"task_1773676540349","task":"Fix Creator Lab video-improvement page (remove text underline + resolve scroll glitch)","description":"Task IN_PROGRESS","timestamp":"2026-03-16T15:55:40.360Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"WORKING","task":"Fix Creator Lab video-improvement page (remove text underline + resolve scroll glitch)","description":"Assigned","timestamp":"2026-03-16T15:55:40.363Z"}
+{"type":"task_assigned","agent_id":"moneymachine","status":"CEO_Treasurer","task":"Fix Creator Lab video-improvement page (remove text underline + resolve scroll glitch)","description":"Assigned to MoneyMachine","timestamp":"2026-03-16T15:55:40.366Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"WORKING","task":"Inspection panel wiring","description":"Assigned","timestamp":"2026-03-16T18:19:45.359Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"WORKING","task":"Card telemetry pass","description":"Assigned","timestamp":"2026-03-16T18:19:45.392Z"}
+{"type":"agent_update","agent_id":"marketpulse","status":"WORKING","task":"Economy sanity check","description":"Assigned","timestamp":"2026-03-16T18:19:45.422Z"}
+{"type":"agent_update","agent_id":"gameplaysystems","status":"WORKING","task":"Status indicator verification","description":"Assigned","timestamp":"2026-03-16T18:19:45.446Z"}
+{"type":"agent_update","agent_id":"shoploop","status":"WORKING","task":"Mission board sync","description":"Assigned","timestamp":"2026-03-16T18:19:45.473Z"}
+{"type":"agent_update","agent_id":"hypeforge","status":"WORKING","task":"Portrait detailing","description":"Assigned","timestamp":"2026-03-16T18:19:45.499Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"WORKING","task":"Fix Creator Lab video-improvement page (remove text underline + resolve scroll glitch)","description":"Assigned","timestamp":"2026-03-16T18:19:45.522Z"}
+{"type":"agent_update","agent_id":"cryptosentinel","status":"WORKING","task":"Crypto revenue scan","description":"Assigned","timestamp":"2026-03-16T18:19:45.544Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"WORKING","task":"Dashboard verification","description":null,"timestamp":"2026-03-16T19:34:13.132Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"WORKING","task":"Pipeline verification","description":null,"timestamp":"2026-03-16T19:47:52.094Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-16T19:50:04.976Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"WORKING","task":"Pipeline verification","description":"In progress","timestamp":"2026-03-16T19:51:12.904Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"WORKING","task":"Pipeline verification","description":null,"timestamp":"2026-03-16T19:51:12.907Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"WAITING","task":"Standing by","description":"Idle","timestamp":"2026-03-16T19:55:41.408Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"WAITING","task":"Standing by","description":null,"timestamp":"2026-03-16T19:55:41.410Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"STALE","task":"Card telemetry pass","description":"Assigned","timestamp":"2026-03-16T20:42:23.571Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"STALE","task":null,"description":"No progress update >20 minutes - resetting task","timestamp":"2026-03-16T20:42:23.571Z"}
+{"type":"agent_update","agent_id":"marketpulse","status":"STALE","task":"Economy sanity check","description":"Assigned","timestamp":"2026-03-16T20:42:23.593Z"}
+{"type":"agent_update","agent_id":"marketpulse","status":"STALE","task":null,"description":"No progress update >20 minutes - resetting task","timestamp":"2026-03-16T20:42:23.593Z"}
+{"type":"agent_update","agent_id":"gameplaysystems","status":"STALE","task":"Status indicator verification","description":"Assigned","timestamp":"2026-03-16T20:42:23.609Z"}
+{"type":"agent_update","agent_id":"gameplaysystems","status":"STALE","task":null,"description":"No progress update >20 minutes - resetting task","timestamp":"2026-03-16T20:42:23.610Z"}
+{"type":"agent_update","agent_id":"shoploop","status":"STALE","task":"Mission board sync","description":"Assigned","timestamp":"2026-03-16T20:42:23.626Z"}
+{"type":"agent_update","agent_id":"shoploop","status":"STALE","task":null,"description":"No progress update >20 minutes - resetting task","timestamp":"2026-03-16T20:42:23.627Z"}
+{"type":"agent_update","agent_id":"hypeforge","status":"STALE","task":"Portrait detailing","description":"Assigned","timestamp":"2026-03-16T20:42:23.644Z"}
+{"type":"agent_update","agent_id":"hypeforge","status":"STALE","task":null,"description":"No progress update >20 minutes - resetting task","timestamp":"2026-03-16T20:42:23.645Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"STALE","task":"Fix Creator Lab video-improvement page (remove text underline + resolve scroll glitch)","description":"Assigned","timestamp":"2026-03-16T20:42:23.661Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"STALE","task":null,"description":"No progress update >20 minutes - resetting task","timestamp":"2026-03-16T20:42:23.662Z"}
+{"type":"agent_update","agent_id":"cryptosentinel","status":"STALE","task":"Crypto revenue scan","description":"Assigned","timestamp":"2026-03-16T20:42:23.680Z"}
+{"type":"agent_update","agent_id":"cryptosentinel","status":"STALE","task":null,"description":"No progress update >20 minutes - resetting task","timestamp":"2026-03-16T20:42:23.681Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-16T20:52:02.502Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-16T20:58:48.993Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"HOLD","task":"Card telemetry pass","description":"Assigned","timestamp":"2026-03-16T21:02:31.732Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"HOLD","task":null,"description":"Temporarily paused while floor team works","timestamp":"2026-03-16T21:02:31.735Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"HOLD","task":"Fix Creator Lab video-improvement page (remove text underline + resolve scroll glitch)","description":"Assigned","timestamp":"2026-03-16T21:02:31.779Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"HOLD","task":null,"description":"Temporarily paused while floor team works","timestamp":"2026-03-16T21:02:31.781Z"}
+{"type":"agent_update","agent_id":"cryptosentinel","status":"HOLD","task":"Crypto revenue scan","description":"Assigned","timestamp":"2026-03-16T21:02:31.802Z"}
+{"type":"agent_update","agent_id":"cryptosentinel","status":"HOLD","task":null,"description":"Temporarily paused while floor team works","timestamp":"2026-03-16T21:02:31.805Z"}
+{"type":"task_started","agent_id":"hypeforge","status":"task_1773695002881","task":"Floor sprite & prop styling pass","description":"Task IN_PROGRESS","timestamp":"2026-03-16T21:03:22.884Z"}
+{"type":"agent_update","agent_id":"hypeforge","status":"WORKING","task":"Floor sprite & prop styling pass","description":"Assigned","timestamp":"2026-03-16T21:03:22.886Z"}
+{"type":"task_assigned","agent_id":"hypeforge","status":"CEO_Treasurer","task":"Floor sprite & prop styling pass","description":"Assigned to hypeforge","timestamp":"2026-03-16T21:03:22.887Z"}
+{"type":"task_started","agent_id":"gameplaysystems","status":"task_1773695002910","task":"Floor rendering logic sync","description":"Task IN_PROGRESS","timestamp":"2026-03-16T21:03:22.914Z"}
+{"type":"agent_update","agent_id":"gameplaysystems","status":"WORKING","task":"Floor rendering logic sync","description":"Assigned","timestamp":"2026-03-16T21:03:22.917Z"}
+{"type":"task_assigned","agent_id":"gameplaysystems","status":"CEO_Treasurer","task":"Floor rendering logic sync","description":"Assigned to gameplaysystems","timestamp":"2026-03-16T21:03:22.918Z"}
+{"type":"task_started","agent_id":"shoploop","status":"task_1773695002940","task":"Floor integration + event wiring","description":"Task IN_PROGRESS","timestamp":"2026-03-16T21:03:22.951Z"}
+{"type":"agent_update","agent_id":"shoploop","status":"WORKING","task":"Floor integration + event wiring","description":"Assigned","timestamp":"2026-03-16T21:03:22.953Z"}
+{"type":"task_assigned","agent_id":"shoploop","status":"CEO_Treasurer","task":"Floor integration + event wiring","description":"Assigned to shoploop","timestamp":"2026-03-16T21:03:22.954Z"}
+{"type":"task_started","agent_id":"marketpulse","status":"task_1773695002969","task":"Floor layout QA & verification","description":"Task IN_PROGRESS","timestamp":"2026-03-16T21:03:22.999Z"}
+{"type":"agent_update","agent_id":"marketpulse","status":"WORKING","task":"Floor layout QA & verification","description":"Assigned","timestamp":"2026-03-16T21:03:23.000Z"}
+{"type":"task_assigned","agent_id":"marketpulse","status":"CEO_Treasurer","task":"Floor layout QA & verification","description":"Assigned to marketpulse","timestamp":"2026-03-16T21:03:23.001Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"STALE","task":"Card telemetry pass","description":"Stalled","timestamp":"2026-03-16T21:22:49.162Z"}
+{"type":"agent_update","agent_id":"cryptosentinel","status":"STALE","task":"Crypto revenue scan","description":"Stalled","timestamp":"2026-03-16T21:22:49.247Z"}
+{"type":"agent_stale","agent_id":"deckwright","status":"STALE","task":"Card telemetry pass","description":"No /agent-update in 20 minutes – auto reset","timestamp":"2026-03-16T21:22:49.166Z"}
+{"type":"agent_stale","agent_id":"cryptosentinel","status":"STALE","task":"Crypto revenue scan","description":"No /agent-update in 20 minutes – auto reset","timestamp":"2026-03-16T21:22:49.249Z"}
+{"type":"agent_stale","agent_id":"moneymachine","status":"STALE","task":"Fix Creator Lab video-improvement page (remove text underline + resolve scroll glitch)","description":"No /agent-update in 20 minutes – auto reset","timestamp":"2026-03-16T21:22:49.212Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"STALE","task":"Fix Creator Lab video-improvement page (remove text underline + resolve scroll glitch)","description":"Stalled","timestamp":"2026-03-16T21:22:49.211Z"}
+{"type":"agent_update","agent_id":"marketpulse","status":"STALE","task":"Floor layout QA & verification","description":"Stalled","timestamp":"2026-03-16T21:23:49.174Z"}
+{"type":"agent_stale","agent_id":"marketpulse","status":"STALE","task":"Floor layout QA & verification","description":"No /agent-update in 20 minutes – auto reset","timestamp":"2026-03-16T21:23:49.176Z"}
+{"type":"agent_update","agent_id":"gameplaysystems","status":"STALE","task":"Floor rendering logic sync","description":"Stalled","timestamp":"2026-03-16T21:23:49.216Z"}
+{"type":"agent_stale","agent_id":"gameplaysystems","status":"STALE","task":"Floor rendering logic sync","description":"No /agent-update in 20 minutes – auto reset","timestamp":"2026-03-16T21:23:49.217Z"}
+{"type":"agent_update","agent_id":"shoploop","status":"STALE","task":"Floor integration + event wiring","description":"Stalled","timestamp":"2026-03-16T21:23:49.244Z"}
+{"type":"agent_stale","agent_id":"shoploop","status":"STALE","task":"Floor integration + event wiring","description":"No /agent-update in 20 minutes – auto reset","timestamp":"2026-03-16T21:23:49.245Z"}
+{"type":"agent_update","agent_id":"hypeforge","status":"STALE","task":"Floor sprite & prop styling pass","description":"Stalled","timestamp":"2026-03-16T21:23:49.276Z"}
+{"type":"agent_stale","agent_id":"hypeforge","status":"STALE","task":"Floor sprite & prop styling pass","description":"No /agent-update in 20 minutes – auto reset","timestamp":"2026-03-16T21:23:49.278Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"HOLD","task":"Card telemetry pass","description":"Stalled","timestamp":"2026-03-16T21:27:10.800Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"HOLD","task":null,"description":"Temporarily paused while floor team works","timestamp":"2026-03-16T21:27:10.803Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"HOLD","task":"Fix Creator Lab video-improvement page (remove text underline + resolve scroll glitch)","description":"Stalled","timestamp":"2026-03-16T21:27:10.828Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"HOLD","task":null,"description":"Temporarily paused while floor team works","timestamp":"2026-03-16T21:27:10.831Z"}
+{"type":"agent_update","agent_id":"cryptosentinel","status":"HOLD","task":"Crypto revenue scan","description":"Stalled","timestamp":"2026-03-16T21:27:10.850Z"}
+{"type":"agent_update","agent_id":"cryptosentinel","status":"HOLD","task":null,"description":"Temporarily paused while floor team works","timestamp":"2026-03-16T21:27:10.852Z"}
+{"type":"agent_update","agent_id":"hypeforge","status":"WORKING","task":"Floor sprite & prop styling pass","description":"In progress","timestamp":"2026-03-16T21:27:47.694Z"}
+{"type":"agent_update","agent_id":"hypeforge","status":"WORKING","task":"Floor sprite & prop styling pass","description":null,"timestamp":"2026-03-16T21:27:47.695Z"}
+{"type":"agent_update","agent_id":"gameplaysystems","status":"WORKING","task":"Floor rendering logic sync","description":"In progress","timestamp":"2026-03-16T21:29:21.185Z"}
+{"type":"agent_update","agent_id":"gameplaysystems","status":"WORKING","task":"Floor rendering logic sync","description":null,"timestamp":"2026-03-16T21:29:21.185Z"}
+{"type":"agent_update","agent_id":"shoploop","status":"WORKING","task":"Floor integration + event wiring","description":"In progress","timestamp":"2026-03-16T21:29:49.869Z"}
+{"type":"agent_update","agent_id":"shoploop","status":"WORKING","task":"Floor integration + event wiring","description":null,"timestamp":"2026-03-16T21:29:49.874Z"}
+{"type":"agent_update","agent_id":"marketpulse","status":"WORKING","task":"Floor layout QA & verification","description":"In progress","timestamp":"2026-03-16T21:30:13.975Z"}
+{"type":"agent_update","agent_id":"marketpulse","status":"WORKING","task":"Floor layout QA & verification","description":null,"timestamp":"2026-03-16T21:30:13.976Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"WORKING","task":"Card telemetry pass","description":"In progress","timestamp":"2026-03-16T21:35:02.581Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"WORKING","task":"Card telemetry pass","description":null,"timestamp":"2026-03-16T21:35:02.583Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"WORKING","task":"Fix Creator Lab video-improvement page","description":"In progress","timestamp":"2026-03-16T21:35:18.586Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"WORKING","task":"Fix Creator Lab video-improvement page","description":null,"timestamp":"2026-03-16T21:35:18.588Z"}
+{"type":"agent_update","agent_id":"cryptosentinel","status":"WORKING","task":"Crypto revenue scan","description":"In progress","timestamp":"2026-03-16T21:35:34.125Z"}
+{"type":"agent_update","agent_id":"cryptosentinel","status":"WORKING","task":"Crypto revenue scan","description":null,"timestamp":"2026-03-16T21:35:34.129Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"WORKING","task":"Coordinating floor + task redistribution","description":null,"timestamp":"2026-03-16T21:37:04.000Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"WORKING","task":"Coordinating floor + task redistribution","description":"Delegation","timestamp":"2026-03-16T21:37:03.998Z"}
+{"type":"agent_update","agent_id":"hypeforge","status":"STALE","task":"Floor sprite & prop styling pass","description":"Stalled","timestamp":"2026-03-16T21:47:49.317Z"}
+{"type":"agent_stale","agent_id":"hypeforge","status":"STALE","task":"Floor sprite & prop styling pass","description":"No /agent-update in 20 minutes – auto reset","timestamp":"2026-03-16T21:47:49.320Z"}
+{"type":"agent_update","agent_id":"gameplaysystems","status":"STALE","task":"Floor rendering logic sync","description":"Stalled","timestamp":"2026-03-16T21:49:49.320Z"}
+{"type":"agent_stale","agent_id":"gameplaysystems","status":"STALE","task":"Floor rendering logic sync","description":"No /agent-update in 20 minutes – auto reset","timestamp":"2026-03-16T21:49:49.324Z"}
+{"type":"agent_update","agent_id":"marketpulse","status":"STALE","task":"Floor layout QA & verification","description":"Stalled","timestamp":"2026-03-16T21:50:49.325Z"}
+{"type":"agent_stale","agent_id":"marketpulse","status":"STALE","task":"Floor layout QA & verification","description":"No /agent-update in 20 minutes – auto reset","timestamp":"2026-03-16T21:50:49.330Z"}
+{"type":"agent_update","agent_id":"shoploop","status":"STALE","task":"Floor integration + event wiring","description":"Stalled","timestamp":"2026-03-16T21:50:49.357Z"}
+{"type":"agent_stale","agent_id":"shoploop","status":"STALE","task":"Floor integration + event wiring","description":"No /agent-update in 20 minutes – auto reset","timestamp":"2026-03-16T21:50:49.359Z"}
+{"type":"agent_update","agent_id":"hypeforge","status":"WORKING","task":"Floor sprite & prop styling pass","description":"Stalled","timestamp":"2026-03-16T21:54:46.425Z"}
+{"type":"agent_update","agent_id":"hypeforge","status":"WORKING","task":null,"description":"CEO directive: resume current task","timestamp":"2026-03-16T21:54:46.425Z"}
+{"type":"agent_update","agent_id":"gameplaysystems","status":"WORKING","task":"Floor rendering logic sync","description":"Stalled","timestamp":"2026-03-16T21:54:46.445Z"}
+{"type":"agent_update","agent_id":"gameplaysystems","status":"WORKING","task":null,"description":"CEO directive: resume current task","timestamp":"2026-03-16T21:54:46.448Z"}
+{"type":"agent_update","agent_id":"shoploop","status":"WORKING","task":"Floor integration + event wiring","description":"Stalled","timestamp":"2026-03-16T21:54:46.465Z"}
+{"type":"agent_update","agent_id":"shoploop","status":"WORKING","task":null,"description":"CEO directive: resume current task","timestamp":"2026-03-16T21:54:46.468Z"}
+{"type":"agent_update","agent_id":"marketpulse","status":"WORKING","task":null,"description":"CEO directive: resume current task","timestamp":"2026-03-16T21:54:46.489Z"}
+{"type":"agent_update","agent_id":"marketpulse","status":"WORKING","task":"Floor layout QA & verification","description":"Stalled","timestamp":"2026-03-16T21:54:46.487Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"WORKING","task":"Card telemetry pass","description":"In progress","timestamp":"2026-03-16T21:54:46.507Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"WORKING","task":null,"description":"CEO directive: resume current task","timestamp":"2026-03-16T21:54:46.510Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"WORKING","task":"Fix Creator Lab video-improvement page","description":"In progress","timestamp":"2026-03-16T21:54:46.528Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"WORKING","task":null,"description":"CEO directive: resume current task","timestamp":"2026-03-16T21:54:46.529Z"}
+{"type":"agent_update","agent_id":"cryptosentinel","status":"WORKING","task":"Crypto revenue scan","description":"In progress","timestamp":"2026-03-16T21:54:46.547Z"}
+{"type":"agent_update","agent_id":"cryptosentinel","status":"WORKING","task":null,"description":"CEO directive: resume current task","timestamp":"2026-03-16T21:54:46.548Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"STALE","task":"Coordinating floor + task redistribution","description":"Stalled","timestamp":"2026-03-16T21:57:49.365Z"}
+{"type":"agent_stale","agent_id":"ceo_treasurer","status":"STALE","task":"Coordinating floor + task redistribution","description":"No /agent-update in 20 minutes – auto reset","timestamp":"2026-03-16T21:57:49.369Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"WORKING","task":"Card telemetry pass","description":"In progress","timestamp":"2026-03-16T22:12:18.461Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"WORKING","task":"Card telemetry pass","description":null,"timestamp":"2026-03-16T22:12:18.463Z"}
+{"type":"agent_update","agent_id":"marketpulse","status":"WORKING","task":"Floor layout QA & verification","description":null,"timestamp":"2026-03-16T22:12:18.500Z"}
+{"type":"agent_update","agent_id":"marketpulse","status":"WORKING","task":"Floor layout QA & verification","description":"In progress","timestamp":"2026-03-16T22:12:18.499Z"}
+{"type":"agent_update","agent_id":"gameplaysystems","status":"WORKING","task":"Floor rendering logic sync","description":"In progress","timestamp":"2026-03-16T22:12:18.526Z"}
+{"type":"agent_update","agent_id":"gameplaysystems","status":"WORKING","task":"Floor rendering logic sync","description":null,"timestamp":"2026-03-16T22:12:18.526Z"}
+{"type":"agent_update","agent_id":"shoploop","status":"WORKING","task":"Floor integration + event wiring","description":"In progress","timestamp":"2026-03-16T22:12:18.551Z"}
+{"type":"agent_update","agent_id":"shoploop","status":"WORKING","task":"Floor integration + event wiring","description":null,"timestamp":"2026-03-16T22:12:18.552Z"}
+{"type":"agent_update","agent_id":"hypeforge","status":"WORKING","task":"Floor sprite & prop styling pass","description":"In progress","timestamp":"2026-03-16T22:12:18.575Z"}
+{"type":"agent_update","agent_id":"hypeforge","status":"WORKING","task":"Floor sprite & prop styling pass","description":null,"timestamp":"2026-03-16T22:12:18.576Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"WORKING","task":"Fix Creator Lab video-improvement page","description":"In progress","timestamp":"2026-03-16T22:12:18.598Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"WORKING","task":"Fix Creator Lab video-improvement page","description":null,"timestamp":"2026-03-16T22:12:18.599Z"}
+{"type":"agent_update","agent_id":"cryptosentinel","status":"WORKING","task":"Crypto revenue scan","description":"In progress","timestamp":"2026-03-16T22:12:18.622Z"}
+{"type":"agent_update","agent_id":"cryptosentinel","status":"WORKING","task":"Crypto revenue scan","description":null,"timestamp":"2026-03-16T22:12:18.623Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"WORKING","task":"Coordinating floor + task redistribution","description":"Delegation","timestamp":"2026-03-16T22:12:18.647Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"WORKING","task":"Coordinating floor + task redistribution","description":null,"timestamp":"2026-03-16T22:12:18.648Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"STALE","task":"Coordinating floor + task redistribution","description":"Stalled","timestamp":"2026-03-16T22:32:49.603Z"}
+{"type":"agent_stale","agent_id":"ceo_treasurer","status":"STALE","task":"Coordinating floor + task redistribution","description":"No /agent-update in 20 minutes – auto reset","timestamp":"2026-03-16T22:32:49.607Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"STALE","task":"Card telemetry pass","description":"Stalled","timestamp":"2026-03-16T22:32:49.660Z"}
+{"type":"agent_stale","agent_id":"deckwright","status":"STALE","task":"Card telemetry pass","description":"No /agent-update in 20 minutes – auto reset","timestamp":"2026-03-16T22:32:49.662Z"}
+{"type":"agent_update","agent_id":"gameplaysystems","status":"STALE","task":"Floor rendering logic sync","description":"Stalled","timestamp":"2026-03-16T22:32:49.717Z"}
+{"type":"agent_stale","agent_id":"gameplaysystems","status":"STALE","task":"Floor rendering logic sync","description":"No /agent-update in 20 minutes – auto reset","timestamp":"2026-03-16T22:32:49.718Z"}
+{"type":"agent_update","agent_id":"shoploop","status":"STALE","task":"Floor integration + event wiring","description":"Stalled","timestamp":"2026-03-16T22:32:49.747Z"}
+{"type":"agent_update","agent_id":"hypeforge","status":"STALE","task":"Floor sprite & prop styling pass","description":"Stalled","timestamp":"2026-03-16T22:32:49.805Z"}
+{"type":"agent_stale","agent_id":"shoploop","status":"STALE","task":"Floor integration + event wiring","description":"No /agent-update in 20 minutes – auto reset","timestamp":"2026-03-16T22:32:49.748Z"}
+{"type":"agent_stale","agent_id":"marketpulse","status":"STALE","task":"Floor layout QA & verification","description":"No /agent-update in 20 minutes – auto reset","timestamp":"2026-03-16T22:32:49.691Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"STALE","task":"Fix Creator Lab video-improvement page","description":"Stalled","timestamp":"2026-03-16T22:32:49.838Z"}
+{"type":"agent_update","agent_id":"cryptosentinel","status":"STALE","task":"Crypto revenue scan","description":"Stalled","timestamp":"2026-03-16T22:32:49.868Z"}
+{"type":"agent_stale","agent_id":"moneymachine","status":"STALE","task":"Fix Creator Lab video-improvement page","description":"No /agent-update in 20 minutes – auto reset","timestamp":"2026-03-16T22:32:49.842Z"}
+{"type":"agent_stale","agent_id":"cryptosentinel","status":"STALE","task":"Crypto revenue scan","description":"No /agent-update in 20 minutes – auto reset","timestamp":"2026-03-16T22:32:49.870Z"}
+{"type":"agent_stale","agent_id":"hypeforge","status":"STALE","task":"Floor sprite & prop styling pass","description":"No /agent-update in 20 minutes – auto reset","timestamp":"2026-03-16T22:32:49.809Z"}
+{"type":"agent_update","agent_id":"marketpulse","status":"STALE","task":"Floor layout QA & verification","description":"Stalled","timestamp":"2026-03-16T22:32:49.689Z"}
+{"type":"system_startup","agent_id":null,"status":null,"task":null,"description":"Mission Control API started","timestamp":"2026-03-16T23:23:40.422Z"}
+{"type":"task_started","agent_id":"gameplaysystems","status":"verify_floor_task","task":"Floor verification task","description":"Task IN_PROGRESS","timestamp":"2026-03-16T23:25:24.437Z"}
+{"type":"agent_update","agent_id":"gameplaysystems","status":"WORKING","task":"Floor verification task","description":"{\"status\":\"WORKING\",\"task_description\":\"Floor verification task\",\"progress_stage\":\"Assigned\"}","timestamp":"2026-03-16T23:25:24.440Z"}
+{"type":"task_assigned","agent_id":"gameplaysystems","status":null,"task":"verify_floor_task","description":"{\"assigned_by\":\"CEO_Treasurer\",\"task_description\":\"Floor verification task\"}","timestamp":"2026-03-16T23:25:24.441Z"}
+{"type":"agent_update","agent_id":"gameplaysystems","status":"WORKING","task":"Floor verification task","description":"{\"status\":\"WORKING\",\"task_description\":\"Floor verification task\",\"progress_stage\":\"In progress\"}","timestamp":"2026-03-16T23:25:40.743Z"}
+{"type":"task_started","agent_id":"gameplaysystems","status":"WORKING","task":"Floor verification task","description":"{\"status\":\"WORKING\",\"task_description\":\"Floor verification task\",\"progress_stage\":\"In progress\",\"description\":null}","timestamp":"2026-03-16T23:25:40.745Z"}
+{"type":"agent_update","agent_id":"gameplaysystems","status":"COMPLETE","task":"Floor verification task","description":"{\"status\":\"COMPLETE\",\"task_description\":\"Floor verification task\",\"progress_stage\":\"Complete\"}","timestamp":"2026-03-16T23:26:00.282Z"}
+{"type":"task_completed","agent_id":"gameplaysystems","status":"COMPLETE","task":"Floor verification task","description":"{\"status\":\"COMPLETE\",\"task_description\":\"Floor verification task\",\"progress_stage\":\"Complete\",\"description\":null}","timestamp":"2026-03-16T23:26:00.283Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"WORKING","task":"Card telemetry pass","description":"{\"status\":\"WORKING\",\"task_description\":\"Card telemetry pass\",\"progress_stage\":\"In progress\"}","timestamp":"2026-03-16T23:29:59.001Z"}
+{"type":"task_started","agent_id":"deckwright","status":"WORKING","task":"Card telemetry pass","description":"{\"status\":\"WORKING\",\"task_description\":\"Card telemetry pass\",\"progress_stage\":\"In progress\",\"description\":null}","timestamp":"2026-03-16T23:29:59.004Z"}
+{"type":"agent_update","agent_id":"marketpulse","status":"WORKING","task":"Floor layout QA & verification","description":"{\"status\":\"WORKING\",\"task_description\":\"Floor layout QA & verification\",\"progress_stage\":\"In progress\"}","timestamp":"2026-03-16T23:29:59.048Z"}
+{"type":"task_started","agent_id":"marketpulse","status":"WORKING","task":"Floor layout QA & verification","description":"{\"status\":\"WORKING\",\"task_description\":\"Floor layout QA & verification\",\"progress_stage\":\"In progress\",\"description\":null}","timestamp":"2026-03-16T23:29:59.050Z"}
+{"type":"agent_update","agent_id":"shoploop","status":"WORKING","task":"Floor integration + event wiring","description":"{\"status\":\"WORKING\",\"task_description\":\"Floor integration + event wiring\",\"progress_stage\":\"In progress\"}","timestamp":"2026-03-16T23:29:59.078Z"}
+{"type":"task_started","agent_id":"shoploop","status":"WORKING","task":"Floor integration + event wiring","description":"{\"status\":\"WORKING\",\"task_description\":\"Floor integration + event wiring\",\"progress_stage\":\"In progress\",\"description\":null}","timestamp":"2026-03-16T23:29:59.080Z"}
+{"type":"agent_update","agent_id":"hypeforge","status":"WORKING","task":"Floor sprite & prop styling pass","description":"{\"status\":\"WORKING\",\"task_description\":\"Floor sprite & prop styling pass\",\"progress_stage\":\"In progress\"}","timestamp":"2026-03-16T23:29:59.107Z"}
+{"type":"task_started","agent_id":"hypeforge","status":"WORKING","task":"Floor sprite & prop styling pass","description":"{\"status\":\"WORKING\",\"task_description\":\"Floor sprite & prop styling pass\",\"progress_stage\":\"In progress\",\"description\":null}","timestamp":"2026-03-16T23:29:59.109Z"}
+{"type":"task_started","agent_id":"moneymachine","status":"WORKING","task":"Fix Creator Lab video-improvement page","description":"{\"status\":\"WORKING\",\"task_description\":\"Fix Creator Lab video-improvement page\",\"progress_stage\":\"In progress\",\"description\":null}","timestamp":"2026-03-16T23:29:59.137Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"WORKING","task":"Fix Creator Lab video-improvement page","description":"{\"status\":\"WORKING\",\"task_description\":\"Fix Creator Lab video-improvement page\",\"progress_stage\":\"In progress\"}","timestamp":"2026-03-16T23:29:59.136Z"}
+{"type":"agent_update","agent_id":"cryptosentinel","status":"WORKING","task":"Crypto revenue scan","description":"{\"status\":\"WORKING\",\"task_description\":\"Crypto revenue scan\",\"progress_stage\":\"In progress\"}","timestamp":"2026-03-16T23:29:59.166Z"}
+{"type":"task_started","agent_id":"cryptosentinel","status":"WORKING","task":"Crypto revenue scan","description":"{\"status\":\"WORKING\",\"task_description\":\"Crypto revenue scan\",\"progress_stage\":\"In progress\",\"description\":null}","timestamp":"2026-03-16T23:29:59.166Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"WORKING","task":"Coordinating floor + task redistribution","description":"{\"status\":\"WORKING\",\"task_description\":\"Coordinating floor + task redistribution\",\"progress_stage\":\"Delegation\"}","timestamp":"2026-03-16T23:29:59.194Z"}
+{"type":"task_started","agent_id":"ceo_treasurer","status":"WORKING","task":"Coordinating floor + task redistribution","description":"{\"status\":\"WORKING\",\"task_description\":\"Coordinating floor + task redistribution\",\"progress_stage\":\"Delegation\",\"description\":null}","timestamp":"2026-03-16T23:29:59.195Z"}
+{"type":"team_meeting_event","agent_id":null,"status":null,"task":null,"description":"{\"agents\":[\"deckwright\",\"gameplaysystems\",\"shoploop\",\"marketpulse\",\"hypeforge\",\"moneymachine\",\"cryptosentinel\"]}","timestamp":"2026-03-16T23:39:44.210Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"STALE","task":"Coordinating floor + task redistribution","description":"{\"status\":\"STALE\",\"task_description\":\"Coordinating floor + task redistribution\",\"progress_stage\":\"Stalled\"}","timestamp":"2026-03-16T23:50:40.637Z"}
+{"type":"agent_stale","agent_id":"ceo_treasurer","status":"STALE","task":"Coordinating floor + task redistribution","description":"{\"status\":\"STALE\",\"task_description\":\"Coordinating floor + task redistribution\",\"reason\":\"No /agent-update in 20 minutes\"}","timestamp":"2026-03-16T23:50:40.639Z"}
+{"type":"agent_update","agent_id":"marketpulse","status":"STALE","task":"Floor layout QA & verification","description":"{\"status\":\"STALE\",\"task_description\":\"Floor layout QA & verification\",\"progress_stage\":\"Stalled\"}","timestamp":"2026-03-16T23:50:40.697Z"}
+{"type":"agent_stale","agent_id":"deckwright","status":"STALE","task":"Card telemetry pass","description":"{\"status\":\"STALE\",\"task_description\":\"Card telemetry pass\",\"reason\":\"No /agent-update in 20 minutes\"}","timestamp":"2026-03-16T23:50:40.676Z"}
+{"type":"agent_update","agent_id":"shoploop","status":"STALE","task":"Floor integration + event wiring","description":"{\"status\":\"STALE\",\"task_description\":\"Floor integration + event wiring\",\"progress_stage\":\"Stalled\"}","timestamp":"2026-03-16T23:50:40.720Z"}
+{"type":"agent_stale","agent_id":"shoploop","status":"STALE","task":"Floor integration + event wiring","description":"{\"status\":\"STALE\",\"task_description\":\"Floor integration + event wiring\",\"reason\":\"No /agent-update in 20 minutes\"}","timestamp":"2026-03-16T23:50:40.722Z"}
+{"type":"agent_stale","agent_id":"hypeforge","status":"STALE","task":"Floor sprite & prop styling pass","description":"{\"status\":\"STALE\",\"task_description\":\"Floor sprite & prop styling pass\",\"reason\":\"No /agent-update in 20 minutes\"}","timestamp":"2026-03-16T23:50:40.748Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"STALE","task":"Fix Creator Lab video-improvement page","description":"{\"status\":\"STALE\",\"task_description\":\"Fix Creator Lab video-improvement page\",\"progress_stage\":\"Stalled\"}","timestamp":"2026-03-16T23:50:40.773Z"}
+{"type":"agent_stale","agent_id":"moneymachine","status":"STALE","task":"Fix Creator Lab video-improvement page","description":"{\"status\":\"STALE\",\"task_description\":\"Fix Creator Lab video-improvement page\",\"reason\":\"No /agent-update in 20 minutes\"}","timestamp":"2026-03-16T23:50:40.774Z"}
+{"type":"agent_update","agent_id":"cryptosentinel","status":"STALE","task":"Crypto revenue scan","description":"{\"status\":\"STALE\",\"task_description\":\"Crypto revenue scan\",\"progress_stage\":\"Stalled\"}","timestamp":"2026-03-16T23:50:40.802Z"}
+{"type":"agent_stale","agent_id":"cryptosentinel","status":"STALE","task":"Crypto revenue scan","description":"{\"status\":\"STALE\",\"task_description\":\"Crypto revenue scan\",\"reason\":\"No /agent-update in 20 minutes\"}","timestamp":"2026-03-16T23:50:40.803Z"}
+{"type":"agent_stale","agent_id":"marketpulse","status":"STALE","task":"Floor layout QA & verification","description":"{\"status\":\"STALE\",\"task_description\":\"Floor layout QA & verification\",\"reason\":\"No /agent-update in 20 minutes\"}","timestamp":"2026-03-16T23:50:40.698Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"STALE","task":"Card telemetry pass","description":"{\"status\":\"STALE\",\"task_description\":\"Card telemetry pass\",\"progress_stage\":\"Stalled\"}","timestamp":"2026-03-16T23:50:40.674Z"}
+{"type":"agent_update","agent_id":"hypeforge","status":"STALE","task":"Floor sprite & prop styling pass","description":"{\"status\":\"STALE\",\"task_description\":\"Floor sprite & prop styling pass\",\"progress_stage\":\"Stalled\"}","timestamp":"2026-03-16T23:50:40.747Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"WORKING","task":"Card telemetry pass","description":"{\"status\":\"WORKING\",\"task_description\":\"Card telemetry pass\",\"progress_stage\":\"In progress\"}","timestamp":"2026-03-17T03:47:23.673Z"}
+{"type":"task_started","agent_id":"deckwright","status":"WORKING","task":"Card telemetry pass","description":"{\"status\":\"WORKING\",\"task_description\":\"Card telemetry pass\",\"progress_stage\":\"In progress\",\"description\":null}","timestamp":"2026-03-17T03:47:23.673Z"}
+{"type":"agent_update","agent_id":"marketpulse","status":"WORKING","task":"Floor layout QA & verification","description":"{\"status\":\"WORKING\",\"task_description\":\"Floor layout QA & verification\",\"progress_stage\":\"In progress\"}","timestamp":"2026-03-17T03:47:23.709Z"}
+{"type":"task_started","agent_id":"marketpulse","status":"WORKING","task":"Floor layout QA & verification","description":"{\"status\":\"WORKING\",\"task_description\":\"Floor layout QA & verification\",\"progress_stage\":\"In progress\",\"description\":null}","timestamp":"2026-03-17T03:47:23.709Z"}
+{"type":"agent_update","agent_id":"gameplaysystems","status":"WORKING","task":"Floor rendering logic sync","description":"{\"status\":\"WORKING\",\"task_description\":\"Floor rendering logic sync\",\"progress_stage\":\"In progress\"}","timestamp":"2026-03-17T03:47:23.731Z"}
+{"type":"task_started","agent_id":"gameplaysystems","status":"WORKING","task":"Floor rendering logic sync","description":"{\"status\":\"WORKING\",\"task_description\":\"Floor rendering logic sync\",\"progress_stage\":\"In progress\",\"description\":null}","timestamp":"2026-03-17T03:47:23.732Z"}
+{"type":"agent_update","agent_id":"shoploop","status":"WORKING","task":"Floor integration + event wiring","description":"{\"status\":\"WORKING\",\"task_description\":\"Floor integration + event wiring\",\"progress_stage\":\"In progress\"}","timestamp":"2026-03-17T03:47:23.751Z"}
+{"type":"task_started","agent_id":"shoploop","status":"WORKING","task":"Floor integration + event wiring","description":"{\"status\":\"WORKING\",\"task_description\":\"Floor integration + event wiring\",\"progress_stage\":\"In progress\",\"description\":null}","timestamp":"2026-03-17T03:47:23.752Z"}
+{"type":"task_started","agent_id":"hypeforge","status":"WORKING","task":"Floor sprite & prop styling pass","description":"{\"status\":\"WORKING\",\"task_description\":\"Floor sprite & prop styling pass\",\"progress_stage\":\"In progress\",\"description\":null}","timestamp":"2026-03-17T03:47:23.772Z"}
+{"type":"agent_update","agent_id":"hypeforge","status":"WORKING","task":"Floor sprite & prop styling pass","description":"{\"status\":\"WORKING\",\"task_description\":\"Floor sprite & prop styling pass\",\"progress_stage\":\"In progress\"}","timestamp":"2026-03-17T03:47:23.772Z"}
+{"type":"task_started","agent_id":"moneymachine","status":"WORKING","task":"Fix Creator Lab video-improvement page","description":"{\"status\":\"WORKING\",\"task_description\":\"Fix Creator Lab video-improvement page\",\"progress_stage\":\"In progress\",\"description\":null}","timestamp":"2026-03-17T03:47:23.796Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"WORKING","task":"Fix Creator Lab video-improvement page","description":"{\"status\":\"WORKING\",\"task_description\":\"Fix Creator Lab video-improvement page\",\"progress_stage\":\"In progress\"}","timestamp":"2026-03-17T03:47:23.795Z"}
+{"type":"agent_update","agent_id":"cryptosentinel","status":"WORKING","task":"Crypto revenue scan","description":"{\"status\":\"WORKING\",\"task_description\":\"Crypto revenue scan\",\"progress_stage\":\"In progress\"}","timestamp":"2026-03-17T03:47:23.817Z"}
+{"type":"task_started","agent_id":"cryptosentinel","status":"WORKING","task":"Crypto revenue scan","description":"{\"status\":\"WORKING\",\"task_description\":\"Crypto revenue scan\",\"progress_stage\":\"In progress\",\"description\":null}","timestamp":"2026-03-17T03:47:23.818Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"WORKING","task":"Coordinating floor + task redistribution","description":"{\"status\":\"WORKING\",\"task_description\":\"Coordinating floor + task redistribution\",\"progress_stage\":\"Delegation\"}","timestamp":"2026-03-17T03:47:23.839Z"}
+{"type":"task_started","agent_id":"ceo_treasurer","status":"WORKING","task":"Coordinating floor + task redistribution","description":"{\"status\":\"WORKING\",\"task_description\":\"Coordinating floor + task redistribution\",\"progress_stage\":\"Delegation\",\"description\":null}","timestamp":"2026-03-17T03:47:23.840Z"}
+{"type":"agent_update","agent_id":"ceo_treasurer","status":"STALE","task":"Coordinating floor + task redistribution","description":"{\"status\":\"STALE\",\"task_description\":\"Coordinating floor + task redistribution\",\"progress_stage\":\"Stalled\"}","timestamp":"2026-03-17T04:07:42.658Z"}
+{"type":"agent_stale","agent_id":"ceo_treasurer","status":"STALE","task":"Coordinating floor + task redistribution","description":"{\"status\":\"STALE\",\"task_description\":\"Coordinating floor + task redistribution\",\"reason\":\"No /agent-update in 20 minutes\"}","timestamp":"2026-03-17T04:07:42.660Z"}
+{"type":"agent_update","agent_id":"deckwright","status":"STALE","task":"Card telemetry pass","description":"{\"status\":\"STALE\",\"task_description\":\"Card telemetry pass\",\"progress_stage\":\"Stalled\"}","timestamp":"2026-03-17T04:07:42.701Z"}
+{"type":"agent_stale","agent_id":"deckwright","status":"STALE","task":"Card telemetry pass","description":"{\"status\":\"STALE\",\"task_description\":\"Card telemetry pass\",\"reason\":\"No /agent-update in 20 minutes\"}","timestamp":"2026-03-17T04:07:42.702Z"}
+{"type":"agent_update","agent_id":"marketpulse","status":"STALE","task":"Floor layout QA & verification","description":"{\"status\":\"STALE\",\"task_description\":\"Floor layout QA & verification\",\"progress_stage\":\"Stalled\"}","timestamp":"2026-03-17T04:07:42.733Z"}
+{"type":"agent_stale","agent_id":"marketpulse","status":"STALE","task":"Floor layout QA & verification","description":"{\"status\":\"STALE\",\"task_description\":\"Floor layout QA & verification\",\"reason\":\"No /agent-update in 20 minutes\"}","timestamp":"2026-03-17T04:07:42.734Z"}
+{"type":"agent_update","agent_id":"gameplaysystems","status":"STALE","task":"Floor rendering logic sync","description":"{\"status\":\"STALE\",\"task_description\":\"Floor rendering logic sync\",\"progress_stage\":\"Stalled\"}","timestamp":"2026-03-17T04:07:42.765Z"}
+{"type":"agent_stale","agent_id":"gameplaysystems","status":"STALE","task":"Floor rendering logic sync","description":"{\"status\":\"STALE\",\"task_description\":\"Floor rendering logic sync\",\"reason\":\"No /agent-update in 20 minutes\"}","timestamp":"2026-03-17T04:07:42.768Z"}
+{"type":"agent_update","agent_id":"shoploop","status":"STALE","task":"Floor integration + event wiring","description":"{\"status\":\"STALE\",\"task_description\":\"Floor integration + event wiring\",\"progress_stage\":\"Stalled\"}","timestamp":"2026-03-17T04:07:42.797Z"}
+{"type":"agent_stale","agent_id":"shoploop","status":"STALE","task":"Floor integration + event wiring","description":"{\"status\":\"STALE\",\"task_description\":\"Floor integration + event wiring\",\"reason\":\"No /agent-update in 20 minutes\"}","timestamp":"2026-03-17T04:07:42.800Z"}
+{"type":"agent_update","agent_id":"hypeforge","status":"STALE","task":"Floor sprite & prop styling pass","description":"{\"status\":\"STALE\",\"task_description\":\"Floor sprite & prop styling pass\",\"progress_stage\":\"Stalled\"}","timestamp":"2026-03-17T04:07:42.831Z"}
+{"type":"agent_stale","agent_id":"hypeforge","status":"STALE","task":"Floor sprite & prop styling pass","description":"{\"status\":\"STALE\",\"task_description\":\"Floor sprite & prop styling pass\",\"reason\":\"No /agent-update in 20 minutes\"}","timestamp":"2026-03-17T04:07:42.833Z"}
+{"type":"agent_update","agent_id":"moneymachine","status":"STALE","task":"Fix Creator Lab video-improvement page","description":"{\"status\":\"STALE\",\"task_description\":\"Fix Creator Lab video-improvement page\",\"progress_stage\":\"Stalled\"}","timestamp":"2026-03-17T04:07:42.866Z"}
+{"type":"agent_stale","agent_id":"moneymachine","status":"STALE","task":"Fix Creator Lab video-improvement page","description":"{\"status\":\"STALE\",\"task_description\":\"Fix Creator Lab video-improvement page\",\"reason\":\"No /agent-update in 20 minutes\"}","timestamp":"2026-03-17T04:07:42.868Z"}
+{"type":"agent_update","agent_id":"cryptosentinel","status":"STALE","task":"Crypto revenue scan","description":"{\"status\":\"STALE\",\"task_description\":\"Crypto revenue scan\",\"progress_stage\":\"Stalled\"}","timestamp":"2026-03-17T04:07:42.901Z"}
+{"type":"agent_stale","agent_id":"cryptosentinel","status":"STALE","task":"Crypto revenue scan","description":"{\"status\":\"STALE\",\"task_description\":\"Crypto revenue scan\",\"reason\":\"No /agent-update in 20 minutes\"}","timestamp":"2026-03-17T04:07:42.902Z"}

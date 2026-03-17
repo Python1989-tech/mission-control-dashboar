@@ -1,0 +1,4 @@
+$path = "../app/page.tsx"
+$target = "        .floor-avatar--idle { border-color: rgba(148, 163, 184, 0.4); }`r`n        .floor-avatar--idle .floor-avatar__base { background: rgba(148, 163, 184, 0.4); }"
+$insert = $target + "`r`n        .floor-prop {`r`n          position: absolute;`r`n          border-radius: 12px;`r`n          opacity: 0.9;`r`n        }`r`n        .floor-prop--plant {`r`n          width: 40px;`r`n          height: 40px;`r`n          background: radial-gradient(circle at top, rgba(34, 197, 94, 0.5), rgba(6, 78, 59, 0.4));`r`n          border: 1px solid rgba(34, 197, 94, 0.6);`r`n        }`r`n        .floor-prop--table {`r`n          width: 140px;`r`n          height: 60px;`r`n          border-radius: 20px;`r`n          border: 1px solid rgba(148, 163, 184, 0.2);`r`n          background: rgba(24, 34, 63, 0.8);`r`n        }"
+(Get-Content $path -Raw).Replace($target, $insert) | Set-Content $path -Encoding UTF8

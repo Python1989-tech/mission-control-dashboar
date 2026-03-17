@@ -1,0 +1,52 @@
+[
+  {
+    "id": "task_1773695002881",
+    "task_description": "Floor sprite & prop styling pass",
+    "priority": "high",
+    "agent_id": "hypeforge",
+    "assigned_by": "CEO_Treasurer",
+    "state": "IN_PROGRESS",
+    "created_at": "2026-03-16T21:03:22.881Z",
+    "updated_at": "2026-03-16T21:03:22.883Z"
+  },
+  {
+    "id": "task_1773695002910",
+    "task_description": "Floor rendering logic sync",
+    "priority": "high",
+    "agent_id": "gameplaysystems",
+    "assigned_by": "CEO_Treasurer",
+    "state": "IN_PROGRESS",
+    "created_at": "2026-03-16T21:03:22.911Z",
+    "updated_at": "2026-03-16T21:03:22.913Z"
+  },
+  {
+    "id": "task_1773695002940",
+    "task_description": "Floor integration + event wiring",
+    "priority": "high",
+    "agent_id": "shoploop",
+    "assigned_by": "CEO_Treasurer",
+    "state": "IN_PROGRESS",
+    "created_at": "2026-03-16T21:03:22.940Z",
+    "updated_at": "2026-03-16T21:03:22.950Z"
+  },
+  {
+    "id": "task_1773695002969",
+    "task_description": "Floor layout QA & verification",
+    "priority": "normal",
+    "agent_id": "marketpulse",
+    "assigned_by": "CEO_Treasurer",
+    "state": "IN_PROGRESS",
+    "created_at": "2026-03-16T21:03:22.969Z",
+    "updated_at": "2026-03-16T21:03:22.976Z"
+  },
+  {
+    "id": "verify_floor_task",
+    "task_description": "Floor verification task",
+    "priority": "high",
+    "agent_id": "gameplaysystems",
+    "assigned_by": "CEO_Treasurer",
+    "state": "IN_PROGRESS",
+    "created_at": "2026-03-16T23:25:24.402Z",
+    "updated_at": "2026-03-16T23:25:24.436Z"
+  }
+]

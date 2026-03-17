@@ -1,0 +1,3 @@
+Emitting mission.activity_event: system_startup
+Mission Control API running on port 4000
+Mission Control WebSocket ready on port 4000

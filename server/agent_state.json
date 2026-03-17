@@ -1,0 +1,90 @@
+[
+  {
+    "id": "ceo_treasurer",
+    "name": "CEO_Treasurer",
+    "department": "Executive",
+    "role": "CEO / Treasurer",
+    "avatarSymbol": "👤",
+    "status": "STALE",
+    "current_task": "Coordinating floor + task redistribution",
+    "last_update": "2026-03-17T04:07:42.657Z",
+    "progress_stage": "Stalled"
+  },
+  {
+    "id": "deckwright",
+    "name": "Deckwright",
+    "department": "Design",
+    "role": "Gameplay Systems Director",
+    "avatarSymbol": "🃏",
+    "status": "STALE",
+    "current_task": "Card telemetry pass",
+    "last_update": "2026-03-17T04:07:42.662Z",
+    "progress_stage": "Stalled"
+  },
+  {
+    "id": "marketpulse",
+    "name": "MarketPulse",
+    "department": "Economy",
+    "role": "Economy & Balance",
+    "avatarSymbol": "📈",
+    "status": "STALE",
+    "current_task": "Floor layout QA & verification",
+    "last_update": "2026-03-17T04:07:42.702Z",
+    "progress_stage": "Stalled"
+  },
+  {
+    "id": "gameplaysystems",
+    "name": "GameplaySystems",
+    "department": "Engineering",
+    "role": "Systems Engineer",
+    "avatarSymbol": "🛠️",
+    "status": "STALE",
+    "current_task": "Floor rendering logic sync",
+    "last_update": "2026-03-17T04:07:42.736Z",
+    "progress_stage": "Stalled"
+  },
+  {
+    "id": "shoploop",
+    "name": "ShopLoop",
+    "department": "Operations",
+    "role": "Simulation Operator",
+    "avatarSymbol": "📦",
+    "status": "STALE",
+    "current_task": "Floor integration + event wiring",
+    "last_update": "2026-03-17T04:07:42.772Z",
+    "progress_stage": "Stalled"
+  },
+  {
+    "id": "hypeforge",
+    "name": "HypeForge",
+    "department": "Creative",
+    "role": "Creative Director",
+    "avatarSymbol": "🎨",
+    "status": "STALE",
+    "current_task": "Floor sprite & prop styling pass",
+    "last_update": "2026-03-17T04:07:42.801Z",
+    "progress_stage": "Stalled"
+  },
+  {
+    "id": "moneymachine",
+    "name": "MoneyMachine",
+    "department": "Product & Revenue Systems",
+    "role": "Product Development Agent",
+    "avatarSymbol": "💰",
+    "status": "STALE",
+    "current_task": "Fix Creator Lab video-improvement page",
+    "last_update": "2026-03-17T04:07:42.835Z",
+    "progress_stage": "Stalled"
+  },
+  {
+    "id": "cryptosentinel",
+    "name": "CryptoSentinel",
+    "department": "Blockchain Intelligence",
+    "role": "Crypto Research & Development Agent",
+    "avatarSymbol": "🛰️",
+    "status": "STALE",
+    "current_task": "Crypto revenue scan",
+    "last_update": "2026-03-17T04:07:42.868Z",
+    "progress_stage": "Stalled"
+  }
+]
